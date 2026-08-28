@@ -1,0 +1,14 @@
+{
+  "milestone": "final",
+  "team": "89",
+  "members": [
+    "罗圣杰 陈子奇 陈彬宇 梁睿之"
+  ],
+  "repository_url": "https://github.com/jiel46003/ai-camp-2026-final-LuoshengjieU202412723",
+  "run_command": "python main.py",
+  "test_command": "python -m unittest discover -s tests -v",
+  "report": "report.md",
+  "presentation": "presentation.pptx",
+  "presentation_minutes": 10,
+  "student_confirmed_no_secrets": true
+}
